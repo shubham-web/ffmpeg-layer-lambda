@@ -5,3 +5,6 @@ ffmpeg version 4.4.2-0ubuntu0.22.04.1 Copyright (c) 2000-2021 the FFmpeg develop
 ```
 
 Download here: https://s3.ap-south-1.amazonaws.com/public.shubhamp.dev/ffmpeg.zip
+
+---
+Credits:  [@srcecde](https://github.com/srcecde)'s Youtube video: [youtu.be/rN_uyF_CgdQ](https://youtu.be/rN_uyF_CgdQ)
